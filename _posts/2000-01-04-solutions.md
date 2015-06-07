@@ -1,6 +1,6 @@
 ---
 title: "Solutions"
-bg: '#3E97B2'
+bg: '#0D3C62'
 color: white
 fa-icon: cogs
 ---

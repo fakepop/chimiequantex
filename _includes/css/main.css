@@ -58,6 +58,10 @@ img {
   vertical-align:middle;
 }
 
+#logo {
+  margin-bottom: 15px;
+}
+
 hr {
   margin:60px auto;
   width:50%;
@@ -180,6 +184,9 @@ nav ul li:hover, nav ul li.active {
     /* padding-top: 140px; */
 }
 
+#accueil {
+  padding:100px 0 140px 0;
+}
 
 #footer {
   padding: 8px 0;
